@@ -1,2 +1,2 @@
 # CAD
-CubeRover CAD
+CAD for the Rose Lab CubeRover
